@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Temesgen Diriba | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    h1 {
+      color: #007acc;
+      margin-bottom: 10px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    .section-title {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+      color: #444;
+    }
+    .project {
+      padding: 10px;
+      background: #fff;
+      border: 1px solid #ddd;
+      margin-bottom: 15px;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Hi, I'm Temesgen Diriba 👋</h1>
+    <p>Welcome to my portfolio website!</p>
+  </header>
+
+  <section>
+    <div class="section-title">💼 About Me</div>
+    <p>I’m an IT professional passionate about technology, systems, and smart solutions. I love solving problems and building cool tech stuff.</p>
+  </section>
+
+  <section>
+    <div class="section-title">🚀 Projects</div>
+    <div class="project">
+      <strong>Course Add/Drop Manager App</strong><br>
+      Built with Flutter. Allows students to add/drop courses in a smart way.
+    </div>
+    <div class="project">
+      <strong>Queue System Configuration</strong><br>
+      Worked on multi-branch setup and troubleshooting of Spectra-based queue systems.
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">📫 Contact</div>
+    <p>Email: <a href="mailto:temesgen@example.com">temesgen@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/temy" target="_blank">github.com/temy</a></p>
+  </section>
+
+  <footer>
+    © 2025 Temesgen Diriba. All rights reserved.
+  </footer>
+
+</body>
+</html>
